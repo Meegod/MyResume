@@ -78,4 +78,11 @@
     .container{
         padding:20px;
     }
+    .container .box-container .box{
+    padding:10px;
+}
+.container .box-container .box img{
+    height: 110px;
+}
+
 }
